@@ -1,3 +1,6 @@
 *.class
 bin/
+<<<<<<< HEAD
 .*
+=======
+>>>>>>> 071c188faa8a409ec341ec35c4f3fbb6d480c8e0
